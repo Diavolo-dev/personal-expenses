@@ -5,6 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+the personal expenses is an app for handling your budget and make sure you are not spending way out of your budget.
 
 A few resources to get you started if this is your first Flutter project:
 
